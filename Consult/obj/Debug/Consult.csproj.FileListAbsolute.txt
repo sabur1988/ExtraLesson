@@ -1,0 +1,8 @@
+C:\Users\sabit\source\repos\Consult\Consult\bin\Debug\Consult.exe.config
+C:\Users\sabit\source\repos\Consult\Consult\bin\Debug\Consult.exe
+C:\Users\sabit\source\repos\Consult\Consult\bin\Debug\Consult.pdb
+C:\Users\sabit\source\repos\Consult\Consult\obj\Debug\Consult.csproj.AssemblyReference.cache
+C:\Users\sabit\source\repos\Consult\Consult\obj\Debug\Consult.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabit\source\repos\Consult\Consult\obj\Debug\Consult.csproj.CoreCompileInputs.cache
+C:\Users\sabit\source\repos\Consult\Consult\obj\Debug\Consult.exe
+C:\Users\sabit\source\repos\Consult\Consult\obj\Debug\Consult.pdb
